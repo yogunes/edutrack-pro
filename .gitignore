@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# MacOS specific files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Local storage files
+*.local
